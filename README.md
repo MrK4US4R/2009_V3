@@ -40,6 +40,6 @@ git clone https://github.com/MrK4US4R/2009_V3
 
 cd 2009_V3
 
-python 2009_V3.py
+python 2009_Just_Power.py
 
 ```
